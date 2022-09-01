@@ -1,4 +1,3 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://apurvabhandari.github.io)
 ### Hi there 👋
 <!--
 **chrisedrego/chrisedrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
